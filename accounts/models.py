@@ -41,6 +41,3 @@ class User(AbstractBaseUser, PermissionsMixin):
     
     
     
-    
-    
-    
