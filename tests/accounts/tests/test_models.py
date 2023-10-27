@@ -9,3 +9,6 @@ def test_user_get_full_name(user):
     full_name = user.get_full_name
     
     assert full_name == "John Doe"
+    
+
+# ALTER USER krystian WITH PASSWORD 'password';
